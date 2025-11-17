@@ -26,7 +26,7 @@ export function About() {
           Desenvolvido por: Pedro Sawczuk
         </p>
         <p>
-          GitHub: <a href="https://github.com/PedroSawczuk" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">Link do Repositório</a>
+          GitHub: <a href="https://github.com/PedroSawczuk/feriados-brasil" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">Link do Repositório</a>
         </p>
       </div>
     </div>
