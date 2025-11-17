@@ -27,7 +27,7 @@ A URL base da API é: `https://api.invertexto.com/v1/holidays/`
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/feriados-brasil.git
+    git clone https://github.com/PedroSawczuk/feriados-brasil.git
     ```
 
 2.  **Instale as dependências:**
